@@ -4,8 +4,8 @@
 需要拥有fofa会员账号
 ### 使用说明：
 1.需先自行登录fofa账号，把获取到的cookie值填入脚本中：_fofapro_ars_session  
-2.需填写查询关键词，脚本里有注释
-3.需填写结果存放地址，脚本里有注释
+2.需填写查询关键词，脚本里有注释  
+3.需填写结果存放地址，脚本里有注释  
 
 ![1](https://upload-images.jianshu.io/upload_images/21474770-e2ffc753ec576ef9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
