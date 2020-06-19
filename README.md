@@ -9,6 +9,8 @@
 
 ![1](https://upload-images.jianshu.io/upload_images/21474770-e2ffc753ec576ef9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+#### 脚本说明：
+单线程同步爬取，而且每翻一页需等待4秒，主要是防止被Ban
 ### 实现效果：
 key='title="小程序后台"'
 在本地生成.xlsx文件，如图所示：
