@@ -6,7 +6,6 @@
 import requests
 import base64
 import re
-import xlsxwriter
 import time
 import sys
 import urllib.parse
